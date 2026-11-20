@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://venkatasaicaterers.vercel.app/sitemap.xml
